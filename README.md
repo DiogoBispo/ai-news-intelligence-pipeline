@@ -1,11 +1,9 @@
----
 
 # AI News Intelligence Pipeline
 
 > Automated AI news aggregation, summarization, classification and scheduled publishing.
 > Um pipeline completo, determinístico e pronto para produção para coleta, curadoria e distribuição de notícias sobre Inteligência Artificial.
 
----
 
 ## Visão Geral
 
