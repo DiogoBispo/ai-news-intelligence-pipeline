@@ -1,0 +1,11 @@
+# Core HTTP
+requests>=2.31.0
+
+# HTML parsing
+beautifulsoup4>=4.12.3
+
+# RSS parsing
+feedparser>=6.0.11
+
+# (Opcional, mas recomendado) timezone/date robustness
+python-dateutil>=2.9.0
